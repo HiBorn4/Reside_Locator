@@ -32,17 +32,15 @@ This Flutter app allows users to input a location (city name, address, or coordi
 
 ## Screenshots
 
-### 1. Location Input Screen
-![Location Input Screen](assets/intro.jpeg)
+<div align="center">
+  <img src="assets/intro.jpeg" alt="Location Input Screen" width="300"/>
+  <img src="assets/rand_loc.jpeg" alt="Display Any Location on Map" width="300"/>
+  <img src="assets/current_loc.jpeg" alt="Display Current Location on Map" width="300"/>
+</div>
 
-### 2. Display Any Location on Map
-![Location Display on Map](assets/rand_loc.jpeg)
+## Demo
 
-### 3. Display Current Location on Map
-![Location Display on Map](assets/current_loc.jpeg)
-
-### Demo
-![Location Display on Map](assets/demo.mp4)
+![Demo](assets/demo.mp4)
 
 ## How to Run the App
 
